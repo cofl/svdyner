@@ -10,12 +10,13 @@ punctuation:
  - «» around concept/name
 
 plû  - more, greatly, etc.
-vön  - alone, void, empty, zero, night
+vön  - alone, void, empty, zero, night, end
 wòn  - am, existence
 é    - I, me
 va   - the, a, one, that
 cion - love, affection, liking
 çaon - appreciation
+çuon - beauty
 î    - time
 nreth - world
 orî  - origin, beginning, past, early.
@@ -26,15 +27,19 @@ hla  - future, hope
 äna  - generic living thing
 dýn  - understand, thought, knowledge
 dÿn  - know, think, will
+dän  - song, story, poem
 dun  - yes, okay, good
 sv   - do, convey
 nom  - ordinal, numerical
+suj  - topic, about
 jou  - want
+pou  - have
 sol  - fire, day
 nie  - earth
 dul  - water
 eu   - and
 trel - work, serve, able
+änden - answer, reply
 on   - feel
 gattar - panic-emotion
 xou  - anger
@@ -76,10 +81,13 @@ wú   - bottom
 æs   - move
 cüi  - reason, cause
 æðu  - possibility, chance
-il   - two, repeatedly, aswell, again.
+il   - two, repeatedly, aswell, again, both
 ga   - three
 zü   - four
 fà   - five
 èx   - six
 löx  - seven
  
+Nùl'sol-sol'on én va-orî'sol'nreth eu én cion-r'é, va dun r'dun'sul'trel, plû'dun é eu r'é r'pou, rá hla'ßzo én dýnër eu fer'on-nùl a'î, dun'onër én eu r'én orî'pou-va...
+
+Warmly burns my passion and love, the good destruction better for both of us, though future peace my thoughts and heart, good feelings we once had...
