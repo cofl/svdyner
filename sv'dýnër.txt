@@ -1,0 +1,83 @@
+﻿adverb? verb (adjective* noun (article noun)*) <-- generally like this
+
+plû  - more, greatly, etc.
+vön  - alone, void, empty, zero, night
+wòn  - am, existence
+é    - I, me
+va   - the, a, one, that
+cion - love, affection, liking
+î    - time
+nreth - world
+orî  - origin, beginning, past, early.
+unî  - present, current
+hla  - future, hope
+äni  - sentient being
+äno  - non-sentient being
+äna  - generic living thing
+dýn  - understand, thought, knowledge
+dÿn  - know, think, will
+dun  - yes, okay, good
+sv   - do, convey
+nom  - ordinal, numerical
+jou  - want
+sol  - fire, day
+nie  - earth
+dul  - water
+eu   - and
+trel - work, serve, able
+on   - feel
+gattar - panic-emotion
+xou  - anger
+ðø   - pain
+ðxo  - shock
+ßø   - respect
+ßzo  - peace
+meß  - sympathy
+µø   - simple
+ua   - part
+yîü  - expletive, strong emotion with usually little significance
+voir - see
+lun  - how
+sul  - new
+hni  - meeting, greeting
+nùl  - act of, state of
+rá   - exclusive
+râ   - different
+rä   - compare
+r    - not
+A    - all, together
+fi   - female
+mi   - male
+peit - small
+vakt - medium
+luit - large
+piet - short
+kavt - average
+liut - long
+fer  - thing, physical item, element, general physical
+ka   - distance
+qú   - top
+fú   - centre
+wú   - bottom
+ú    - location, place
+õ    - amount
+æs   - move
+cüi  - reason, cause
+æðu  - possibility, chance
+il   - two, repeatedly, aswell, again.
+ga   - three
+zü   - four
+fà   - five
+èx   - six
+löx  - seven
+
+rules:
+ - plurals: ër
+ - possessive: n if vowel, e if consonant
+ - noun-descriptors are prefix' or -postfix
+ 
+punctuation:
+ - always end with .
+ - ¿ for question at start
+ - ¡ for exclamation at start
+ - «» around concept/name
