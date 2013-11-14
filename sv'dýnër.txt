@@ -1,4 +1,13 @@
-﻿adverb? verb (adjective* noun (article noun)*) <-- generally like this
+﻿rules:
+ - plurals: ër
+ - possessive: n if vowel, e if consonant
+ - noun-descriptors are prefix' or -postfix
+ 
+punctuation:
+ - always end with .
+ - ¿ for question at start
+ - ¡ for exclamation at start
+ - «» around concept/name
 
 plû  - more, greatly, etc.
 vön  - alone, void, empty, zero, night
@@ -6,6 +15,7 @@ wòn  - am, existence
 é    - I, me
 va   - the, a, one, that
 cion - love, affection, liking
+çaon - appreciation
 î    - time
 nreth - world
 orî  - origin, beginning, past, early.
@@ -32,7 +42,9 @@ xou  - anger
 ðxo  - shock
 ßø   - respect
 ßzo  - peace
+ßor  - humour
 meß  - sympathy
+çeß  - pity
 µø   - simple
 ua   - part
 yîü  - expletive, strong emotion with usually little significance
@@ -70,14 +82,4 @@ zü   - four
 fà   - five
 èx   - six
 löx  - seven
-
-rules:
- - plurals: ër
- - possessive: n if vowel, e if consonant
- - noun-descriptors are prefix' or -postfix
  
-punctuation:
- - always end with .
- - ¿ for question at start
- - ¡ for exclamation at start
- - «» around concept/name
