@@ -10,7 +10,7 @@ punctuation:
  - «» around concept/name
 
 plû  - more, greatly, etc.
-vön  - alone, void, empty, zero, night, end
+vön  - alone, void, empty, zero
 wòn  - am, existence
 é    - I, me
 va   - the, a, one, that
@@ -25,20 +25,22 @@ hla  - future, hope
 äni  - sentient being
 äno  - non-sentient being
 äna  - generic living thing
-dýn  - understand, thought, knowledge
-dÿn  - know, think, will
+dýn  - thought, knowledge
+dÿn  - know, think, will, understand
 dän  - song, story, poem
 dun  - yes, okay, good
-sv   - do, convey
+sv   - convey
 nom  - ordinal, numerical
 suj  - topic, about
+jiu  - give
 jou  - want
 pou  - have
-sol  - fire, day
-nie  - earth
-dul  - water
+gër - sustenance
+sol  - plasma, fire
+nie  - solid matter
+dul  - liquid matter
 eu   - and
-trel - work, serve, able
+trel - work, serve, able, do
 änden - answer, reply
 on   - feel
 gattar - panic-emotion
@@ -46,6 +48,7 @@ xou  - anger
 ðø   - pain
 ðxo  - shock
 ßø   - respect
+ßuón - selfless
 ßzo  - peace
 ßor  - humour
 meß  - sympathy
@@ -57,7 +60,7 @@ voir - see
 lun  - how
 sul  - new
 hni  - meeting, greeting
-nùl  - act of, state of
+nùl  - act of, state of, to do, use
 rá   - exclusive
 râ   - different
 rä   - compare
@@ -87,7 +90,5 @@ zü   - four
 fà   - five
 èx   - six
 löx  - seven
- 
-Nùl'sol-sol'on én va-orî'sol'nreth eu én cion-r'é, va dun r'dun'sul'trel, plû'dun é eu r'é r'pou, rá hla'ßzo én dýnër eu fer'on-nùl a'î, dun'onër én eu r'én orî'pou-va...
 
-Warmly burns my passion and love, the good destruction better for both of us, though future peace my thoughts and heart, good feelings we once had...
+Nùl'sol-sol'on én va-orî'sol'nreth eu én cion-r'é, va dun r'dun'sul'trel, plû'dun é eu r'é r'pou, rá hla'ßzo én dýnër eu fer'on-nùl a'î, dun'onër én eu r'én orî'pou-va...
