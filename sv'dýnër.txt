@@ -12,6 +12,7 @@ punctuation:
 plû  - more, greatly, etc.
 vön  - alone, void, empty, zero
 wòn  - am, existence
+uòn  - in, a part of, in the format.
 é    - I, me
 va   - the, a, one, that
 cion - love, affection, liking
@@ -26,15 +27,16 @@ hla  - future, hope
 äno  - non-sentient being
 äna  - generic living thing
 dýn  - thought, knowledge
-dÿn  - know, think, will, understand
+din  - alternative spelling of dýn
+dÿn  - know, think, will, understand, meaning
 dän  - song, story, poem
 dun  - yes, okay, good
 sv   - convey
 nom  - ordinal, numerical
 suj  - topic, about
-jiu  - give
-jou  - want
-pou  - have
+joi  - give
+jou  - want, require.
+pou  - have, in posession of
 gër - sustenance
 sol  - plasma, fire
 nie  - solid matter
@@ -53,17 +55,17 @@ xou  - anger
 ßor  - humour
 meß  - sympathy
 çeß  - pity
+eß   - apologize
 µø   - simple
 ua   - part
-yîü  - expletive, strong emotion with usually little significance
+yui  - expletive, strong emotion with usually little significance
 voir - see
 lun  - how
 sul  - new
 hni  - meeting, greeting
 nùl  - act of, state of, to do, use
-rá   - exclusive
-râ   - different
-rä   - compare
+rá   - exclusive, but, though, except
+ræ   - compare, similar
 r    - not
 A    - all, together
 fi   - female
@@ -80,7 +82,7 @@ qú   - top
 fú   - centre
 wú   - bottom
 ú    - location, place
-õ    - amount
+vie  - amount, some
 æs   - move
 cüi  - reason, cause
 æðu  - possibility, chance
@@ -90,5 +92,3 @@ zü   - four
 fà   - five
 èx   - six
 löx  - seven
-
-Nùl'sol-sol'on én va-orî'sol'nreth eu én cion-r'é, va dun r'dun'sul'trel, plû'dun é eu r'é r'pou, rá hla'ßzo én dýnër eu fer'on-nùl a'î, dun'onër én eu r'én orî'pou-va...
