@@ -27,8 +27,9 @@ hla  - future, hope
 äno  - non-sentient being
 äna  - generic living thing
 dýn  - thought, knowledge
-din  - alternative spelling of dýn
+din  - alternative spelling of dýn, generally northern
 dÿn  - know, think, will, understand, meaning
+dyn  - alternative spelling of dÿn, generally northern
 dän  - song, story, poem
 dun  - yes, okay, good
 sv   - convey
@@ -57,6 +58,7 @@ meß  - sympathy
 çeß  - pity
 eß   - apologize
 µø   - simple
+pø   - alternative spelling of µø, primarily northern
 ua   - part
 yui  - expletive, strong emotion with usually little significance
 voir - see
@@ -71,12 +73,13 @@ A    - all, together
 fi   - female
 mi   - male
 peit - small
-vakt - medium
+kavt - medium
 luit - large
 piet - short
-kavt - average
+vakt - average
 liut - long
-fer  - thing, physical item, element, general physical
+fer  - thing, physical item, element, general physical : southern dialect
+än   - thing, physical item, element, general physical : northern dialect
 ka   - distance
 qú   - top
 fú   - centre
