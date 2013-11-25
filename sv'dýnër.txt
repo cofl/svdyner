@@ -1,4 +1,7 @@
-﻿rules:
+﻿phonetic rules:
+ - "é r'é" can be pronounced "ay r'ah"
+ - "r'é é" can be pronounced "r'ay ah"
+rules:
  - plurals: ër
  - possessive: n if vowel, e if consonant
  - noun-descriptors are prefix' or -postfix
@@ -21,7 +24,9 @@ cion - love, affection, liking
 î    - time
 nreth - world
 orî  - origin, beginning, past, early.
+or   - shortened lyrical version of orî
 unî  - present, current
+un   - shortened lyrical version of unî
 hla  - future, hope
 äni  - sentient being
 äno  - non-sentient being
@@ -95,3 +100,4 @@ zü   - four
 fà   - five
 èx   - six
 löx  - seven
+smä  - weather
