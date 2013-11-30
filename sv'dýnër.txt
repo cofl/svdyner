@@ -1,4 +1,4 @@
-﻿æaäábcçdeëéfghiíïjklmnoöòpqrstðøuüúûvwxyýzµÿ
+﻿æaäábcçdeëéfghiíïjklmnoöòpqrstðøuüúûvwxyýzµÿ ¬
 ÆAÄÁBCÇDEËÉFGHIÍÏJKLMNOÖÒPQRSTÐØUÜÚÛVWXYÝZ  ß
 
 phonemes:
@@ -19,6 +19,7 @@ rules:
  
 punctuation:
  - ' and - are used ONLY for word concatenation
+ - ¬ for exclusion concatentation (rare, use -)
  - [sentence].
  - [sentence/fragment]… (optional, as in English)
  - [sentence/fragment]— (optional, as in English)
@@ -39,8 +40,10 @@ uòn  - in, a part of, in the format.
 va   - the, a, one, that
 cion - love, affection, liking
 çaon - appreciation
-çuon - beauty
-í   - time
+çaun - glow
+çuon - beauty, special
+çuun - shine
+í    - time
 nreth - world
 orí  - origin, beginning, past, early.
 or   - shortened lyrical version of orí
@@ -54,21 +57,23 @@ dýn  - thought, knowledge
 din  - alternative spelling of dýn, generally northern
 dÿn  - know, think, will, understand, meaning
 dyn  - alternative spelling of dÿn, generally northern
+den  - explainable
 dän  - song, story, poem
 dun  - yes, okay, good
-sv   - convey
+sv   - convey, noise
 nom  - ordinal, numerical
-suj  - topic, about
+suj  - health
 joi  - give
 jou  - want, require.
 pou  - have, in posession of
-gër - sustenance
+gër  - sustenance
+føæ  - cold
 sol  - plasma, fire
 nie  - solid matter
 dul  - liquid matter
 eu   - and
 trel - work, serve, able, do
-änden - health
+änden - topic, about
 on   - feel
 gattar - panic-emotion
 xou  - anger
@@ -94,6 +99,7 @@ hni  - meeting, greeting
 núl  - act of, state of, to do, use
 rá   - exclusive, but, though, except
 ræ   - compare, similar
+¬    - early version of 'r', also used in spellings
 r    - not
 a    - all, together
 fi   - female typical
@@ -109,9 +115,9 @@ liut - long
 fer  - thing, physical item, element, general physical : southern dialect
 än   - thing, physical item, element, general physical : northern dialect
 ka   - distance
-qú   - top
-fú   - centre
-wú   - bottom
+qú   - top, top
+fú   - centre, middle
+wú   - bottom, down
 ú    - location, place
 vi   - amount, some
 æs   - move
@@ -124,17 +130,19 @@ fá   - five
 éx   - six
 löx  - seven
 smä  - weather
+hlæ  - awake
+hlæß - sleep
 
 qæo  - colour
 æzu  - blue
-æzí  - yellow
+æzí  - yellow, gold
 æzík - orange
 æka  - red
 cæka - infrared
 ækí  - brown
 qær  - silver
 qæra - black
-qærí - white
+qærí - white, pale
 berd - green
 merd - violet
 mæç  - ultraviolet
