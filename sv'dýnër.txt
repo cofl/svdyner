@@ -44,11 +44,13 @@ cion - love, affection, liking
 çuon - beauty, special
 çuun - shine
 í    - time
-nreth - world
+nreth - world, ground
+ærð  - air
+dulð - sea  
 orí  - origin, beginning, past, early.
 or   - shortened lyrical version of orí
 uní  - present, current
-un   - shortened lyrical version of uní
+un   - (1) shortened lyrical version of uní (2) absolute, light, truth
 hlá  - future, hope
 äni  - sentient being
 äno  - non-sentient being
@@ -72,7 +74,7 @@ sol  - plasma, fire
 nie  - solid matter
 dul  - liquid matter
 eu   - and
-trel - work, serve, able, do
+trel - work, serve, able, do, make(sul'trel is preferred)
 änden - topic, about
 on   - feel
 gattar - panic-emotion
@@ -91,13 +93,16 @@ pø   - alternative spelling of µø, primarily northern
 µé   - maintaining, keeping the same state
 pé   - alternative spelling of µé, primarily northern
 ua   - part
-yui  - expletive, strong emotion with usually little significance
+yui  - (1)expletive (2)strong emotion with usually little significance (3)"So, [...]"
+oir  - touch, feel
 voir - see
+soir - hear
+goir - taste, smell
 lun  - how
 sul  - new
 hni  - meeting, greeting
 núl  - act of, state of, to do, use
-rá   - exclusive, but, though, except
+rá   - exclusive, but, though, except (archaic spelling, pronounced "ra")
 ræ   - compare, similar
 ¬    - early version of 'r', also used in spellings
 r    - not
@@ -115,9 +120,16 @@ liut - long
 fer  - thing, physical item, element, general physical : southern dialect
 än   - thing, physical item, element, general physical : northern dialect
 ka   - distance
-qú   - top, top
-fú   - centre, middle
-wú   - bottom, down
+kú   - direction
+kún  - north
+kúa  - west
+kúl  - east
+kúo  - south
+kúq  - up
+kúd  - down
+qú   - top, tall
+fú   - centre, middle, flat
+dú   - bottom, short
 ú    - location, place
 vi   - amount, some
 æs   - move
