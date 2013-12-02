@@ -32,7 +32,7 @@ punctuation:
  - ; to separate connected groups of phrases
  - / shorthand "or" operator, i.e. "qæra ræ'rá qæerí" -> "qæra/qæerí"
 
-plû  - more, greatly, etc.
+plû  - more, greatly, important, etc.
 vön  - alone, void, empty, zero
 wòn  - am, existence
 uòn  - in, a part of, in the format.
@@ -138,14 +138,19 @@ cüi  - reason, cause
 æðu  - possibility, chance
 il   - two, repeatedly, aswell, again, both
 ga   - three
-zü   - four
+éx   - four
 fá   - five
-éx   - six
+zü   - six
 löx  - seven
 smä  - weather
 hlæ  - awake
 hlæß - sleep
 krûtæn - unit of measure
+tæn  - mass
+
+ur   - strong, sturdy
+
+uræn - force, energy
 
 qæo  - colour
 æzu  - blue
@@ -168,6 +173,7 @@ sægo - spicy
 æzíg - salty
 ækag - sour
 çtæg - tangy
+ðægo - doughy
 
 
 CONTRACTIONS :D
