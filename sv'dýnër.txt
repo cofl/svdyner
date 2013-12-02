@@ -9,6 +9,7 @@ phonemes:
  - /ɜɹ, ɝ/ : ø
  - /i/  : ý, i
  - /l/  : l
+ - /ʒ/  : j
  //TODO: finish these
 phonetic rules:
  - "r'é é" can optionally be pronounced "r'ay ah"
@@ -147,6 +148,8 @@ hlæ  - awake
 hlæß - sleep
 krûtæn - unit of measure
 tæn  - mass
+flæß - casual sex/physical sex/flirting
+jaðíø - jaðíø
 
 ur   - strong, sturdy
 
