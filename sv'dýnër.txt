@@ -1,4 +1,4 @@
-﻿æaäábcçdeëéfghiíïjklmnoöòpqrstðøuüúûvwxyýzµÿ ¬
+﻿æaäábcçdeëéfghiíïjklmnoöòpqrstðøuüúûvwxyýzµÿ ¬ß
 ÆAÄÁBCÇDEËÉFGHIÍÏJKLMNOÖÒPQRSTÐØUÜÚÛVWXYÝZ  ß
 
 phonemes:
@@ -59,7 +59,7 @@ dýn  - thought, knowledge
 din  - alternative spelling of dýn, generally northern
 dÿn  - know, think, will, understand, meaning
 dyn  - alternative spelling of dÿn, generally northern
-den  - explainable
+den  - 
 dän  - song, story, poem
 dun  - yes, okay, good
 sv   - convey, noise
@@ -68,7 +68,7 @@ suj  - health
 joi  - give
 jou  - want, require.
 pou  - have, in posession of
-gër  - sustenance
+gær  - sustenance
 føæ  - cold
 sol  - plasma, fire
 nie  - solid matter
@@ -80,7 +80,7 @@ on   - feel
 gattar - panic-emotion
 xou  - anger
 ðø   - pain
-ðxo  - shock
+ðzo  - shock
 ßø   - respect
 ßuòn - selfless
 ßzo  - peace
@@ -88,6 +88,7 @@ xou  - anger
 meß  - sympathy
 çeß  - pity
 eß   - apologize
+mun  - fun
 µø   - simple
 pø   - alternative spelling of µø, primarily northern
 µé   - maintaining, keeping the same state
@@ -144,6 +145,7 @@ löx  - seven
 smä  - weather
 hlæ  - awake
 hlæß - sleep
+krûtæn - unit of measure
 
 qæo  - colour
 æzu  - blue
@@ -158,3 +160,16 @@ qærí - white, pale
 berd - green
 merd - violet
 mæç  - ultraviolet
+
+pær  - eat, intake sustenance
+mægo - sweet
+dulæ - moist
+sægo - spicy
+æzíg - salty
+ækag - sour
+çtæg - tangy
+
+
+CONTRACTIONS :D
+---------------
+Va-wòn -> vaòn
