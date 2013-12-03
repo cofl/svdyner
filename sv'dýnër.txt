@@ -1,15 +1,21 @@
-﻿æaäábcçdeëéfghiíïjklmnoöòpqrstðøuüúûvwxyýzµÿ ¬ß
-ÆAÄÁBCÇDEËÉFGHIÍÏJKLMNOÖÒPQRSTÐØUÜÚÛVWXYÝZ  ß
+﻿æaäábcçdeëéfghiïíjklmnoöòpqrøstðuüúûvwxyýÿz
+ÆAÄÁBCÇDEËÉFGHIÏÍJKLMNOÖÒPQRØSTÐUÜÚÛVWXYÝZß
+
+Gloss characters: η(n), Λ(V), ¬(r), ƿ(w), Ƿ(W), ʒ(j), Ʒ(J), µ(p)
+Punctuation characters: .<>?¿/"';:,[]{}\|()-+=_`~«»!¡@#€£%¢°
+Numeric characters: 01234567 89¶Å
 
 phonemes:
  - /eɪ/ : æ, á
  - /ʌ/  : a, á
  - /ɑː/ : ä
  - /b/  :  b
- - /ɜɹ, ɝ/ : ø
  - /i/  : ý, i
  - /l/  : l
  - /ʒ/  : j
+ - /ɜɹ, ɝ/ : ø
+ - /x/  : r
+ - /sh/ : x
  //TODO: finish these
 phonetic rules:
  - "r'é é" can optionally be pronounced "r'ay ah"
@@ -35,8 +41,8 @@ punctuation:
 
 plû  - more, greatly, important, etc.
 vön  - alone, void, empty, zero
-wòn  - am, existence
-uòn  - in, a part of, in the format.
+wòn  - am, existence, is
+uòn  - in, a part of, in the format, of
 é    - I, me
 va   - the, a, one, that
 cion - love, affection, liking
@@ -50,6 +56,7 @@ nreth - world, ground
 dulð - sea  
 orí  - origin, beginning, past, early.
 or   - shortened lyrical version of orí
+
 uní  - present, current
 un   - (1) shortened lyrical version of uní (2) absolute, light, truth
 hlá  - future, hope
@@ -60,7 +67,6 @@ dýn  - thought, knowledge
 din  - alternative spelling of dýn, generally northern
 dÿn  - know, think, will, understand, meaning
 dyn  - alternative spelling of dÿn, generally northern
-den  - 
 dän  - song, story, poem
 dun  - yes, okay, good
 sv   - convey, noise
@@ -74,7 +80,8 @@ føæ  - cold
 sol  - plasma, fire
 nie  - solid matter
 dul  - liquid matter
-eu   - and
+eu   - and (archaic)
+et   - and
 trel - work, serve, able, do, make(sul'trel is preferred)
 änden - topic, about
 on   - feel
@@ -89,7 +96,7 @@ xou  - anger
 meß  - sympathy
 çeß  - pity
 eß   - apologize
-mun  - fun
+mún  - fun
 µø   - simple
 pø   - alternative spelling of µø, primarily northern
 µé   - maintaining, keeping the same state
@@ -98,7 +105,7 @@ ua   - part
 yui  - (1)expletive (2)strong emotion with usually little significance (3)"So, [...]"
 oir  - touch, feel
 voir - see
-soir - hear
+oiræ - hear
 goir - taste, smell
 lun  - how
 sul  - new
@@ -123,6 +130,10 @@ fer  - thing, physical item, element, general physical : southern dialect
 än   - thing, physical item, element, general physical : northern dialect
 ka   - distance
 kú   - direction
+skún - forward
+skúa - left
+skúl - right
+skúo - backward
 kún  - north
 kúa  - west
 kúl  - east
@@ -135,6 +146,7 @@ dú   - bottom, short
 ú    - location, place
 vi   - amount, some
 æs   - move
+æcül - change, alter
 cüi  - reason, cause
 æðu  - possibility, chance
 il   - two, repeatedly, aswell, again, both
@@ -144,17 +156,17 @@ fá   - five
 zü   - six
 löx  - seven
 smä  - weather
-hlæ  - awake
+hlæ  - awake, alive
 hlæß - sleep
-krûtæn - unit of measure
+krû - unit of measure
 tæn  - mass
 flæß - (1)flirting (2)casual sex/physical sex
 jaðíø - jaðíø
-
+aøet - cease
+svét  - expression
+emø  - name
 ur   - strong, sturdy
-
 uræn - force, energy
-
 qæo  - colour
 æzu  - blue
 æzí  - yellow, gold
@@ -168,7 +180,6 @@ qærí - white, pale
 berd - green
 merd - violet
 mæç  - ultraviolet
-
 pær  - eat, intake sustenance
 mægo - sweet
 dulæ - moist
@@ -178,8 +189,8 @@ sægo - spicy
 çtæg - tangy
 ðægo - doughy
 taíg - metallic
-cshí - crisp
-
+cxí  - crisp
+øécíg - rotten, foul
 
 CONTRACTIONS :D
 ---------------
