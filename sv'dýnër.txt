@@ -51,7 +51,7 @@ cion - love, affection, liking
 çuon - beauty, special
 çuun - shine
 í    - time
-nreth - world, ground
+nreth - world, ground, soil
 ærð  - air
 dulð - sea  
 orí  - origin, beginning, past, early.
@@ -74,10 +74,9 @@ suj  - health, life
 joi  - give
 jou  - want, require.
 pou  - have, in posession of
-
 gær  - sustenance
-føæ  - cold
-sol  - plasma, fire
+fræ  - cold
+sol  - plasma, fire, hot
 nie  - solid matter
 dul  - liquid matter
 eu   - and (archaic)
@@ -93,9 +92,9 @@ xou  - anger
 ßuòn - selfless
 ßzo  - peace
 ßor  - humour
+eß   - apologize
 meß  - sympathy
 çeß  - pity
-eß   - apologize
 mún  - fun
 µø   - simple
 pø   - alternative spelling of µø, primarily northern
@@ -103,23 +102,24 @@ pø   - alternative spelling of µø, primarily northern
 pé   - alternative spelling of µé, primarily northern
 ua   - part
 yui  - (1)expletive (2)strong emotion with usually little significance (3)"So, [...]"
+
 oir  - touch, feel
-voir - see
-oiræ - hear
+voir - see, sight
+oiræ - hear, sound
 goir - taste, smell
 lun  - how
 sul  - new
 hni  - meeting, greeting
-núl  - act of, state of, to do, use
+núl  - act of, state of, to do, make use of
 rá   - exclusive, but, though, except (archaic spelling, pronounced "ra")
 ræ   - compare, similar
 ¬    - early version of 'r', also used in spellings
 r    - not
 a    - all, together
-fi   - female typical
-fí   - female atypical
-mi   - male typical
-mí   - male atypical
+fí   - female typical
+fío  - female atypical
+mí   - male typical
+mío  - male atypical
 peit - small
 kavt - medium
 luit - large
@@ -161,10 +161,10 @@ hlæß - sleep
 krû - unit of measure
 tæn  - mass
 flæß - (1)flirting (2)casual sex/physical sex
-jaðíø - jaðíø
+jaðø - jaðø
 aøet - cease
 svét  - expression
-emø  - name
+emø  - name, label
 ur   - strong, sturdy
 uræn - force, energy
 qæo  - colour
@@ -192,6 +192,8 @@ taíg - metallic
 cxí  - crisp
 øécíg - rotten, foul
 tø   - artificial, synthetic
+dæs  - flow
+láø  - clean
 
 CONTRACTIONS :D
 ---------------
