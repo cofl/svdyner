@@ -56,10 +56,9 @@ nreth - world, ground
 dulð - sea  
 orí  - origin, beginning, past, early.
 or   - shortened lyrical version of orí
-
 uní  - present, current
 un   - (1) shortened lyrical version of uní (2) absolute, light, truth
-hlá  - future, hope
+hla  - future, hope
 äni  - sentient being
 äno  - non-sentient being
 äna  - generic living thing
@@ -71,10 +70,11 @@ dän  - song, story, poem
 dun  - yes, okay, good
 sv   - convey, noise
 nom  - ordinal, numerical
-suj  - health
+suj  - health, life
 joi  - give
 jou  - want, require.
 pou  - have, in posession of
+
 gær  - sustenance
 føæ  - cold
 sol  - plasma, fire
@@ -191,6 +191,7 @@ sægo - spicy
 taíg - metallic
 cxí  - crisp
 øécíg - rotten, foul
+tø   - artificial, synthetic
 
 CONTRACTIONS :D
 ---------------
